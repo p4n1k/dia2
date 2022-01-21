@@ -1,6 +1,5 @@
 #include <linux/delay.h>
 #include <asm/delay.h>
-#include <asm/uaccess.h>
 #include <linux/sched.h>
 #include <linux/module.h>
 #include <linux/syscalls.h>
